@@ -92,7 +92,6 @@ http://127.0.0.1:5000/
 ### Results 
 ![img_alt](https://github.com/sanjanabh127/Music-Recommendation-System/blob/2bff79f8634d3e39535e7d2c2f4c82a98430a918/Images/Screenshot%202026-01-17%20155504.png)
 ![img_alt](https://github.com/sanjanabh127/Music-Recommendation-System/blob/2bff79f8634d3e39535e7d2c2f4c82a98430a918/Images/Screenshot%202026-01-17%20155550.png)
-![img_alt](https://github.com/sanjanabh127/Music-Recommendation-System/blob/2bff79f8634d3e39535e7d2c2f4c82a98430a918/Images/Screenshot%202026-01-17%20155612.png)
 ![img_alt](https://github.com/sanjanabh127/Music-Recommendation-System/blob/2bff79f8634d3e39535e7d2c2f4c82a98430a918/Images/Screenshot%202026-01-17%20155642.png)
 
 ---
